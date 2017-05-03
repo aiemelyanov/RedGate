@@ -1,0 +1,23 @@
+CREATE TABLE apex_030200.wwv_mig_rpt_datasrc_grp (
+  "ID" NUMBER NOT NULL,
+  datasrc_id NUMBER NOT NULL,
+  security_group_id NUMBER NOT NULL,
+  "NAME" VARCHAR2(4000 BYTE),
+  fillcolor VARCHAR2(4000 BYTE),
+  linecolor VARCHAR2(4000 BYTE),
+  formattrigger CLOB,
+  select_for_app VARCHAR2(1 BYTE) DEFAULT 'Y' NOT NULL CONSTRAINT wwv_mig_grp_select_for_app CHECK (select_for_app in ('Y', 'N')),
+  applicable VARCHAR2(1 BYTE) DEFAULT 'Y',
+  "COMPLETE" VARCHAR2(1 BYTE) DEFAULT 'N',
+  "PRIORITY" NUMBER(1) DEFAULT 3,
+  assignee VARCHAR2(255 BYTE),
+  notes VARCHAR2(4000 BYTE),
+  tags VARCHAR2(4000 BYTE),
+  created_on DATE,
+  created_by VARCHAR2(400 BYTE),
+  last_updated_on DATE,
+  last_updated_by VARCHAR2(400 BYTE),
+  CONSTRAINT wwv_mig_grp_pk PRIMARY KEY ("ID"),
+  CONSTRAINT wwv_mig_grp_id_fk FOREIGN KEY (datasrc_id) REFERENCES apex_030200.wwv_mig_rpt_datasrc ("ID") ON DELETE CASCADE,
+  CONSTRAINT wwv_mig_grp_sg_id_fk FOREIGN KEY (security_group_id) REFERENCES apex_030200.wwv_flow_companies (provisioning_company_id) ON DELETE CASCADE
+);

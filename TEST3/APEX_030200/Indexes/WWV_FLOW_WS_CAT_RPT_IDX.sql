@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_cat_rpt_idx ON apex_030200.wwv_flow_worksheet_rpts(category_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_themes FOR apex_030200.apex_themes;

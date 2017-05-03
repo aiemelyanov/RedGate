@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_fl_ch_fid_fk2 ON apex_030200.wwv_flow_flash_charts(region_id);

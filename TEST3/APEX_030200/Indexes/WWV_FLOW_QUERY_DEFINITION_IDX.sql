@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_query_definition_idx ON apex_030200.wwv_flow_query_definition(flow_id,security_group_id);

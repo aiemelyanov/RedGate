@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_custom_auth FOR apex_030200.apex_custom_auth;

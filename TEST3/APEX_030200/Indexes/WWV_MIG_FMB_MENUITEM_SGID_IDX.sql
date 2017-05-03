@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_fmb_menuitem_sgid_idx ON apex_030200.wwv_mig_frm_fmb_menu_menuitem(security_group_id);

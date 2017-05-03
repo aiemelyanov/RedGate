@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_exporter_idx1 ON apex_030200.wwv_mig_exporter(security_group_id);

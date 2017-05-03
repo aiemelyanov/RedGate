@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_model_pages_model_idx ON apex_030200.wwv_flow_model_pages(model_id);

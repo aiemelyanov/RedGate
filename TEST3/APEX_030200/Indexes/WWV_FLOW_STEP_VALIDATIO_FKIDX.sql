@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_step_validatio_fkidx ON apex_030200.wwv_flow_step_validations(flow_id,flow_step_id,"ID");

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_step_validations_idx1 ON apex_030200.wwv_flow_step_validations(flow_step_id,flow_id);

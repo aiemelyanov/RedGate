@@ -1,0 +1,29 @@
+CREATE OR REPLACE package body apex_030200.wwv_flow_regexp wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+311 20f
+j+PMrBs2+IAH31Sp2ypKZ+z26GAwg/AJ2UgVfC+KlKqVh8Vn5vPp7YlNW7d+rFyGoj8vI8LD
+KulN4ysQs3JkC+bKUPJV1gCDpHKDhtfe9YBeRqFvmmqf+AFPPJa6+CvR2bvq5pSoFH9mJVa2
+3YlcG3KCJn859INa7koBdibKWfe96FkvuMyxoCEE045SHpHnLqANWGmjMzRnSFzJkUaUyeGL
+w2BexYDWRXVeO7MqEZQQO7XZ7eV6xPJy9WrNTCgHaiJfIDUE/2qS/KSpUXUFRhcCjXUGZigJ
+W4nuRVEbidX+QdyMi8BVB8C+g26Sb1akMLVxqsOJTJfi6nIBIM8qqQhNLOa+QnSYhwreTETR
+fGWrN9fJBIL8aVWXFhsl1Kevrx1kN23nTpfU7dx/6ftYQVHDjzwbu2GqhLsQwLjbEdRYyU2s
+MODB3L6S3/+5L0V4rwHEPRcsOzVX5WvHm18MWCct5I8UmFsYtLsNGQ+dd3QTLGOlVJDdky9y
+IrOelj+m2i1Taw==
+/

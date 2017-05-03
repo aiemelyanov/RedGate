@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_proj_comp_sg_id_idx ON apex_030200.wwv_mig_project_components(security_group_id);

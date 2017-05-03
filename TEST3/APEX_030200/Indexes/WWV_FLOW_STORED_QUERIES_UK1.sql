@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_stored_queries_uk1 ON apex_030200.wwv_flow_shared_queries("NAME",flow_id);

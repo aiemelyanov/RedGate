@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_app_grp_idx1 ON apex_030200.wwv_flow_application_groups(security_group_id);

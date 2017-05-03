@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_rev_lcm_sg_idx ON apex_030200.wwv_mig_frm_rev_lovcolmaps(security_group_id);

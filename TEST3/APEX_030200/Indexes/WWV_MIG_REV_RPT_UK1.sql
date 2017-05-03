@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_mig_rev_rpt_uk1 ON apex_030200.wwv_mig_rev_reports(project_id,dbid,reportid);

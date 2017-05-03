@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_icon_bar_attr_idx1 ON apex_030200.wwv_flow_icon_bar_attributes(flow_id);

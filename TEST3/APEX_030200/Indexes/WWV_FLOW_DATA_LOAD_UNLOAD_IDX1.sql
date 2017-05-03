@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_data_load_unload_idx1 ON apex_030200.wwv_flow_data_load_unload(security_group_id);

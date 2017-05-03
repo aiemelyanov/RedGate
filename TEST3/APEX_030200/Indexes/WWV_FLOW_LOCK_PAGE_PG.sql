@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_lock_page_pg ON apex_030200.wwv_flow_lock_page(object_id,flow_id);

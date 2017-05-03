@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_rev_apexapp_idx1 ON apex_030200.wwv_mig_rev_apexapp(project_id,dbid);

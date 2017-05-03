@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_button_temp_idx1 ON apex_030200.wwv_flow_button_templates(security_group_id,reference_id);

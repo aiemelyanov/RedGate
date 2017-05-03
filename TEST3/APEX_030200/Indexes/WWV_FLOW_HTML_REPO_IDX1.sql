@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_html_repo_idx1 ON apex_030200.wwv_flow_html_repository(flow_id,html_name,security_group_id);

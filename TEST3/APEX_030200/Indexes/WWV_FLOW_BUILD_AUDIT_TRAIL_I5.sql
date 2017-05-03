@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_build_audit_trail_i5 ON apex_030200.wwv_flow_builder_audit_trail(security_group_id,flow_user,flow_id,audit_date);

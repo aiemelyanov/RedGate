@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_fl_ch_sr_idx ON apex_030200.wwv_flow_flash_chart_series(chart_id,flow_id,security_group_id);

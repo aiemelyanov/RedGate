@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_lock_page_by ON apex_030200.wwv_flow_lock_page(locked_by);

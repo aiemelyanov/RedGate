@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_data_load_bad_idx2 ON apex_030200.wwv_flow_data_load_bad_log(security_group_id);

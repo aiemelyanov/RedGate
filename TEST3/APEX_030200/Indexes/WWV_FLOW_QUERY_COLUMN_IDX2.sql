@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_query_column_idx2 ON apex_030200.wwv_flow_query_column(query_object_id);

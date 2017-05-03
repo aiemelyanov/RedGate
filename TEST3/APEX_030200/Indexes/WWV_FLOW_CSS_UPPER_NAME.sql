@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_css_upper_name ON apex_030200.wwv_flow_css_repository(upper_css_name);

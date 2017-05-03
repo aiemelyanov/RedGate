@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wwv_render_chart2 FOR apex_030200.wwv_render_chart2;

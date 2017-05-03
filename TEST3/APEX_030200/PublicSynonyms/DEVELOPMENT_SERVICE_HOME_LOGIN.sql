@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM development_service_home_login FOR apex_030200.development_service_home_login;

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_translatable_key ON apex_030200.wwv_flow_translatable_text$(flow_id,page_id,translate_from_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_page_genattr_idx ON apex_030200.wwv_flow_page_generic_attr(region_id,attribute_id);

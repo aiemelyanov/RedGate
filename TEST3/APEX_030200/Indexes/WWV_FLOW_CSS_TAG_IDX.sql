@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_css_tag_idx ON apex_030200.wwv_flow_css_repository(css_tag);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_preferences$_fkidx ON apex_030200.wwv_flow_preferences$(security_group_id,user_id,preference_name);

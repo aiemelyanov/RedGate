@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_app_build_pref_idx1 ON apex_030200.wwv_flow_app_build_pref(security_group_id);

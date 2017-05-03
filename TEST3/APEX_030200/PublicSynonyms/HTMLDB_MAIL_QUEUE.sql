@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM htmldb_mail_queue FOR apex_030200.htmldb_mail_queue;

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_pll_sg_id_idx ON apex_030200.wwv_mig_plsql_libs(security_group_id);

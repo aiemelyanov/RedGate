@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_row_templates_idx1 ON apex_030200.wwv_flow_row_templates(security_group_id,reference_id);

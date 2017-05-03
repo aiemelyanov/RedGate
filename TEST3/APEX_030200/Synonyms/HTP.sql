@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.htp FOR sys.htp;

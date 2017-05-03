@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_mig_projects_update FOR apex_030200.apex_mig_projects_update;

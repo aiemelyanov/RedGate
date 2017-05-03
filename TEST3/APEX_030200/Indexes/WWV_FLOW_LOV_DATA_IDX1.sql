@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_lov_data_idx1 ON apex_030200.wwv_flow_list_of_values_data(lov_id,security_group_id,lov_disp_sequence,"ID");

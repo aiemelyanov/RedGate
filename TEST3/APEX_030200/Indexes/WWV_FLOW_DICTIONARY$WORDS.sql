@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_dictionary$words ON apex_030200.wwv_flow_dictionary$(words,"OWNER",language,security_group_id);

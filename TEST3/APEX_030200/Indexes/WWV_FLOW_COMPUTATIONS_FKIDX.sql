@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_computations_fkidx ON apex_030200.wwv_flow_computations(flow_id,"ID");

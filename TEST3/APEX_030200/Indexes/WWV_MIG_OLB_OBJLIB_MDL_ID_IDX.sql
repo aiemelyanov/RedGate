@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_objlib_mdl_id_idx ON apex_030200.wwv_mig_olb_objectlibrary(module_id);

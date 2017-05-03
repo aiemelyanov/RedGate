@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_grp_form_id_idx ON apex_030200.wwv_mig_rpt_grp_formula("GROUP_ID");

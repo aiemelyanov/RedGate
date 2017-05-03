@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_blk_dsc_blk_id_idx ON apex_030200.wwv_mig_olb_blk_datasourcecol(block_id);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_pages_reserved_idx ON apex_030200.wwv_flow_pages_reserved(created_on);

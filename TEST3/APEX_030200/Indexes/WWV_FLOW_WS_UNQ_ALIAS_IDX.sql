@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_ws_unq_alias_idx ON apex_030200.wwv_flow_worksheets(CASE  WHEN "ALIAS" IS NOT NULL THEN "FLOW_ID" END,"ALIAS");

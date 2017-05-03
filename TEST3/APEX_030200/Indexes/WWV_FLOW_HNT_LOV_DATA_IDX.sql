@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_hnt_lov_data_idx ON apex_030200.wwv_flow_hnt_lov_data(column_id);

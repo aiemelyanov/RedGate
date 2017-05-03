@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_eff_userid_map_idx1 ON apex_030200.wwv_flow_effective_userid_map(userid,effective_userid,flow_id,security_group_id);

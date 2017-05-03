@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_acc_frm_idx2 ON apex_030200.wwv_mig_acc_forms(dbid);

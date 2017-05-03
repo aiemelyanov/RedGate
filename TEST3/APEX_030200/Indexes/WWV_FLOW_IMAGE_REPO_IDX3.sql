@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_image_repo_idx3 ON apex_030200.wwv_flow_image_repository(is_on_filesystem);

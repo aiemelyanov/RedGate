@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.utl_raw FOR sys.utl_raw;

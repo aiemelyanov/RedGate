@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_sw_result_idx1 ON apex_030200.wwv_flow_sw_results(file_id);

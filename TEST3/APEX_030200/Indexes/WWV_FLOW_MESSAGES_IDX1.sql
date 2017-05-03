@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_messages_idx1 ON apex_030200.wwv_flow_messages$(flow_id,"NAME",security_group_id,message_language);

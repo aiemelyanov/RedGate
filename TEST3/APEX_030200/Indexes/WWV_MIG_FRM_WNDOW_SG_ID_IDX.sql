@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_wndow_sg_id_idx ON apex_030200.wwv_mig_frm_windows(security_group_id);

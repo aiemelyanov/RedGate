@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_bil_sg_id_idx ON apex_030200.wwv_mig_olb_blk_item_lie(security_group_id);

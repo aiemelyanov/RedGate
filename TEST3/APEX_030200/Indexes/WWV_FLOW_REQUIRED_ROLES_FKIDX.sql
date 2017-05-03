@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_required_roles_fkidx ON apex_030200.wwv_flow_required_roles(flow_id,role_name);

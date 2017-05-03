@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_tabs_unique ON apex_030200.wwv_flow_tabs(flow_id,tab_set,tab_name);

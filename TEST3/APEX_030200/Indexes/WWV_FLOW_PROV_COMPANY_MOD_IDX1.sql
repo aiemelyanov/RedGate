@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_prov_company_mod_idx1 ON apex_030200.wwv_flow_provision_serice_mod(security_group_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_restricted_schemas_uk ON apex_030200.wwv_flow_restricted_schemas("SCHEMA");

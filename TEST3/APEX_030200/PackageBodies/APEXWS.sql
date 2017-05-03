@@ -1,0 +1,28 @@
+CREATE OR REPLACE package body apex_030200.apexws wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+490 1ce
+H5urRPIMMDhI6pEcbUjMDewfEiYwgw23r9xGfC9AAE6Oxx3xHFQGr2KTt9Gkp8kteZ7jQeNb
+uxsc0t1qBawvuLISLxMhgt7okLtPJD1WAAO2FcwIFzBCEnPkMP6iKTFcoFkeK7gwkRvXWPTW
+V543HN2dVYD3TzBB38Xph/1GcQDKNhymiZ+ZrVX7SogKbZ6RTI5rEjrjSahMATk3ImjQTEX/
+sNr8v0wpZcWUY3thwaIFydHJ5Y8RceirMUmJLwYH9Afx/qaZUdOkrzlZv9Vp9fwkoLovdN0d
+N1SoyrEv+KwjE76D5MDIkT6Xb5m6WX7YTG6iy3icC//zCrIhh7cvrtOR6apFfPvQyVdNROjM
+1ytgdZ1N48ncz21a9gtpK3mMR75bIGKKIId1vqK6t1McgvCDEIa1v+AszdHp2BAlzBXbuWe2
+xstq/ChY1LDoWUi8psdLFH8=
+/

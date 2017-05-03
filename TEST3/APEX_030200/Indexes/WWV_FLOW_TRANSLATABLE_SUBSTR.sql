@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_translatable_substr ON apex_030200.wwv_flow_translatable_text$(text_substr_1_255);

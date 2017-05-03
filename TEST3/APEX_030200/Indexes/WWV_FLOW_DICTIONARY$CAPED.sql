@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_dictionary$caped ON apex_030200.wwv_flow_dictionary$(words_capitalized,"OWNER",language);

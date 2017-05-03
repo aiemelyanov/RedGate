@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_field_temp_idx2 ON apex_030200.wwv_flow_field_templates(flow_id,template_name,theme_id);

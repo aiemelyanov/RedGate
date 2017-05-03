@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_trg_sg_id_idx ON apex_030200.wwv_mig_frm_triggers(security_group_id);

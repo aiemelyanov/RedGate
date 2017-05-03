@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_security_schem_fkidx ON apex_030200.wwv_flow_security_schemes(flow_id,"NAME");

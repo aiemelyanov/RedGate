@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wwv_flow_months_month FOR apex_030200.wwv_flow_months_month;

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_blk_dsa_sg_id_idx ON apex_030200.wwv_mig_frm_blk_dsa(security_group_id);

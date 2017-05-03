@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_language_map_idx1 ON apex_030200.wwv_flow_language_map(primary_language_flow_id,translation_flow_language_code);

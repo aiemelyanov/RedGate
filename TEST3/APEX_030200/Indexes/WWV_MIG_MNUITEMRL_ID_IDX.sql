@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_mnuitemrl_id_idx ON apex_030200.wwv_mig_frm_menuitem_role(menuitem_id);

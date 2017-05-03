@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_messages_idx2 ON apex_030200.wwv_flow_messages$(security_group_id,"NAME",message_language);

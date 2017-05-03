@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_mail_attachments FOR apex_030200.apex_mail_attachments;

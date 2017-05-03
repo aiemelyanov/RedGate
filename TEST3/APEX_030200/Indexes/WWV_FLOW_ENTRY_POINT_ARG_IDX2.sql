@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_entry_point_arg_idx2 ON apex_030200.wwv_flow_entry_point_args(flow_entry_point_id);

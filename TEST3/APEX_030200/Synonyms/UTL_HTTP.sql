@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.utl_http FOR sys.utl_http;

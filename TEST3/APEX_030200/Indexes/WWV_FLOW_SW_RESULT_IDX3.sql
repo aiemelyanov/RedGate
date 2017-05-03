@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_sw_result_idx3 ON apex_030200.wwv_flow_sw_results(security_group_id,"ID",status);

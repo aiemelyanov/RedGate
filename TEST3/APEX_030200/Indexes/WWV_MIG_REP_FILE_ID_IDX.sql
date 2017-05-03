@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_rep_file_id_idx ON apex_030200.wwv_mig_report(file_id);

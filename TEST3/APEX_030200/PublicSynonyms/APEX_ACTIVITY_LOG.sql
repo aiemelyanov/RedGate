@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_activity_log FOR apex_030200.apex_activity_log;

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_lov_ent_idx1 ON apex_030200.wwv_flow_worksheet_lov_entries(worksheet_id);

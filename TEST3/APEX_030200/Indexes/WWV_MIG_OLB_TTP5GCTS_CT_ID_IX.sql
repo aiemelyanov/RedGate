@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_ttp5gcts_ct_id_ix ON apex_030200.wwv_mig_olb_t_tp_ggggg_ct_txst(compoundtext_id);

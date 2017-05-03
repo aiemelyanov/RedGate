@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.apex_ui_default FOR apex_030200.wwv_flow_hint;

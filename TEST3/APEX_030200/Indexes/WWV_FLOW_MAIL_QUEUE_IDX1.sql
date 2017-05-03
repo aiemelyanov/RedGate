@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_mail_queue_idx1 ON apex_030200.wwv_flow_mail_queue(security_group_id);

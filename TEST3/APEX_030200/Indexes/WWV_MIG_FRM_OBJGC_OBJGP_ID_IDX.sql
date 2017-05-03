@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_objgc_objgp_id_idx ON apex_030200.wwv_mig_frm_objectgroupchild(objectgroup_id);

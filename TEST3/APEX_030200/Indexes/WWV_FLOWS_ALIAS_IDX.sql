@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flows_alias_idx ON apex_030200.wwv_flows("ALIAS",security_group_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_items_idx2 ON apex_030200.wwv_flow_items("ID",is_persistent);

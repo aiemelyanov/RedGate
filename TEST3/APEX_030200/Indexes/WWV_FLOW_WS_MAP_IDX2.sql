@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_map_idx2 ON apex_030200.wwv_flow_ws_process_parms_map(process_id);

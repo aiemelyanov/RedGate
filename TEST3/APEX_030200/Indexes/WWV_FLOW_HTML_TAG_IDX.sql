@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_html_tag_idx ON apex_030200.wwv_flow_html_repository(html_tag);

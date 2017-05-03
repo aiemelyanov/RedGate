@@ -1,0 +1,30 @@
+CREATE OR REPLACE package body apex_030200.htmldb_lang wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+ca2 270
+523aaP35dxpqo2NtJvT9EwSBSMIwg82JDCCsZ44CmIvqRwm36O5z4962Rsyh8/rno+q33y6D
+As3ltSSBy7jZIVSB4kW40zfZWK5wi2661PoLesF+RfK/inMeC7WSZv5yTyBHhTxAfwptGpcr
+RNmG4P9gOQuKbizVAT7CAVafwgaujXHqZtql14WeYfTpwuMC1wkibR404OmQwcSy3sKMhjbe
+96ETWXuRJWy3HFjS+pFnG4RliPeh9Sy0YTkSTxTGGI405ekgOUZwl8GTOOTjBc1g/5s9K3M6
+pHZgnUGD/uRzakupSAe9G3sExZlMvY3w3NaXNf5nQ1HvDpu4nGubUsEOnrh4Dp5SAmsYSuLs
+M5tVVQjbj+nlexUasainz+056JNfgstjVgZsSc1koZ9A6Rt5ZSnIoZxZI5ElSbf7WHT6kaIb
+jU+W71sSRjxmQBJGHPA8/sW6uIEs2jej/YFAuD0bvHNfhH0MLfIwo5kZVbdDKv6xaA9ZQJFl
+ZrcaaPaILHTEVhOmoAtXXZAR5V6Wu5Bwa3AprPCsO5nLnkrRUxZTRY9rjyms0KxkmfueN9FG
+FkZFL2svKRVPkOmnBxnhgVGjiynD13Vozx022p+h
+/

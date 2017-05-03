@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_image_tag_idx ON apex_030200.wwv_flow_image_repository(image_tag);

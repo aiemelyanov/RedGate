@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_query_def_idx2 ON apex_030200.wwv_flow_query_definition(region_id);

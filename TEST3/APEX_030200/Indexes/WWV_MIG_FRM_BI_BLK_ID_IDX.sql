@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_bi_blk_id_idx ON apex_030200.wwv_mig_frm_blk_items(block_id);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_forms_sg_id_idx ON apex_030200.wwv_mig_forms(security_group_id);

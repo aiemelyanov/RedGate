@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_shortcut_idx1 ON apex_030200.wwv_flow_shortcuts(flow_id,shortcut_name,shortcut_consideration_seq);

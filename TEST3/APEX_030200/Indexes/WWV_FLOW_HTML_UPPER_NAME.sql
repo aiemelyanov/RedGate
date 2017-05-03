@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_html_upper_name ON apex_030200.wwv_flow_html_repository(upper_html_name);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_step_item_help_fkidx ON apex_030200.wwv_flow_step_item_help(flow_item_id);

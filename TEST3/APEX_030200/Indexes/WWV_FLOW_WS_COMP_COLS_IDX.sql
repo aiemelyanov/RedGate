@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_comp_cols_idx ON apex_030200.wwv_flow_worksheet_computation(worksheet_id);

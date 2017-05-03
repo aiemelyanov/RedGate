@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_effective_user_fkidx ON apex_030200.wwv_flow_effective_userid_map(security_group_id,flow_id,userid);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_bir_item_id_idx ON apex_030200.wwv_mig_frm_blk_item_radio(item_id);

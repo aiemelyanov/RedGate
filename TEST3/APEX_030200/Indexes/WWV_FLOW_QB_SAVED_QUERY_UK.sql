@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_qb_saved_query_uk ON apex_030200.wwv_flow_qb_saved_query(title,created_by,security_group_id);

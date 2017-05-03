@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.htmldb_application_files FOR apex_030200.wwv_flow_files;

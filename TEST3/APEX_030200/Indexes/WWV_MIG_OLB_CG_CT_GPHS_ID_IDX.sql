@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_cg_ct_gphs_id_idx ON apex_030200.wwv_mig_olb_cg_compoundtext(graphics_id);

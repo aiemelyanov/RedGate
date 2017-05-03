@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_web_pg_regions_idx1 ON apex_030200.wwv_flow_web_pg_regions(web_page_id);

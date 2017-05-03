@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_sw_mkeywords_idx ON apex_030200.wwv_flow_sw_main_keywords(keyword);

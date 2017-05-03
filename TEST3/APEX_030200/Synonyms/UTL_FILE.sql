@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.utl_file FOR sys.utl_file;

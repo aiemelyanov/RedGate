@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_application_page_flash_ch FOR apex_030200.apex_application_page_flash_ch;

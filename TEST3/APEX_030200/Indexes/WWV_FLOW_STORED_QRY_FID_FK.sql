@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_stored_qry_fid_fk ON apex_030200.wwv_flow_shared_queries(flow_id);

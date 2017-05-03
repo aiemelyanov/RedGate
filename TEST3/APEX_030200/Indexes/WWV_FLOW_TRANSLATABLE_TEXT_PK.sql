@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_translatable_text_pk ON apex_030200.wwv_flow_translatable_text$(flow_id,page_id,translate_from_id,translate_from_flow_table,translate_from_flow_column,translate_to_lang_code);

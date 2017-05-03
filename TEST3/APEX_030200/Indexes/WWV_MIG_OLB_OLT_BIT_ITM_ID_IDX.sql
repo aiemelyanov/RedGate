@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_olt_bit_itm_id_idx ON apex_030200.wwv_mig_olb_olt_blk_item_trigr(item_id);

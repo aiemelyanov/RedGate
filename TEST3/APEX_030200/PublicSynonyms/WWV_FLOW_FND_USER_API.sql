@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wwv_flow_fnd_user_api FOR apex_030200.wwv_flow_fnd_user_api;

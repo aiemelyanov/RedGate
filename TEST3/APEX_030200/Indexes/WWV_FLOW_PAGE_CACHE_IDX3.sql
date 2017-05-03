@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_page_cache_idx3 ON apex_030200.wwv_flow_page_cache(chart_region_id);

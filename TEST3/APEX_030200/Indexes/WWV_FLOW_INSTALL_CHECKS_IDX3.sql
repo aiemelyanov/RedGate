@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_install_checks_idx3 ON apex_030200.wwv_flow_install_checks(install_id);

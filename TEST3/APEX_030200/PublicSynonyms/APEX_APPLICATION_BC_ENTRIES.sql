@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_application_bc_entries FOR apex_030200.apex_application_bc_entries;

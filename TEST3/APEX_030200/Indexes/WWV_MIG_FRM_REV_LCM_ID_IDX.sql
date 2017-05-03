@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_rev_lcm_id_idx ON apex_030200.wwv_mig_frm_rev_lovcolmaps(colmap_id);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_grp_row_id_idx ON apex_030200.wwv_mig_rpt_grp_rowdelim("GROUP_ID");

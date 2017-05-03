@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.apex_collection FOR apex_030200.wwv_flow_collection;

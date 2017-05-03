@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_acc_idx_col_idx1 ON apex_030200.wwv_mig_acc_indexes_cols(indid);

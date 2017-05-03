@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_poplov_temp_idx1 ON apex_030200.wwv_flow_popup_lov_template(security_group_id,reference_id);

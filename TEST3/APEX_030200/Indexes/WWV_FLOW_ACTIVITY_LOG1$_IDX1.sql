@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_activity_log1$_idx1 ON apex_030200.wwv_flow_activity_log1$(time_stamp);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_rpt_xmltag_id_idx ON apex_030200.wwv_mig_rpt_xmltagtablemap(parent_id);

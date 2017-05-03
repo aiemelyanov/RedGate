@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_va_sg_id_idx ON apex_030200.wwv_mig_olb_visualattribute(security_group_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_sw_sql_cmds_fkidx ON apex_030200.wwv_flow_sw_sql_cmds(security_group_id,parsed_schema,"ID");

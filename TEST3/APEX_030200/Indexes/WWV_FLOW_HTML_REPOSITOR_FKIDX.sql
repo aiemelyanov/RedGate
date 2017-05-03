@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_html_repositor_fkidx ON apex_030200.wwv_flow_html_repository(security_group_id,flow_id,"ID");

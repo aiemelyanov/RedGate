@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_mig_rev_frm_uk1 ON apex_030200.wwv_mig_rev_forms(project_id,dbid,formid);

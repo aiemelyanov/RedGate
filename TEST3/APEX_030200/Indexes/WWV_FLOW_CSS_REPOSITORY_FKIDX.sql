@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_css_repository_fkidx ON apex_030200.wwv_flow_css_repository(security_group_id,"ID");

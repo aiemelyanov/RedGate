@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_fnd_user_group_fkidx ON apex_030200.wwv_flow_fnd_user_groups(security_group_id,group_name);

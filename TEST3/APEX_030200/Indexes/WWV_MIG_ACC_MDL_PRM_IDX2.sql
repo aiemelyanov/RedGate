@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_acc_mdl_prm_idx2 ON apex_030200.wwv_mig_acc_modules_perm(project_id,dbid,moduleid);

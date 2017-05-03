@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wwv_speling FOR apex_030200.wwv_speling;

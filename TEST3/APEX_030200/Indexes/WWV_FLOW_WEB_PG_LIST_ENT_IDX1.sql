@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_web_pg_list_ent_idx1 ON apex_030200.wwv_flow_web_pg_list_entries(region_id);

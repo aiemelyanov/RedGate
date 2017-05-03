@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wwv_mig_acc_load FOR apex_030200.wwv_mig_acc_load;

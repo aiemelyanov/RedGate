@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_lovt_u_flow_id ON apex_030200.wwv_flow_popup_lov_template(flow_id,theme_id);

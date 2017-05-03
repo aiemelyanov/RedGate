@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_ttpgggggct_gid_idx ON apex_030200.wwv_mig_olb_t_tp_ggggg_cpdtxt(graphics_id);

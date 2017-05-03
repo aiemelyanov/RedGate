@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_base_rpt_idx ON apex_030200.wwv_flow_worksheet_rpts(base_report_id,application_user);

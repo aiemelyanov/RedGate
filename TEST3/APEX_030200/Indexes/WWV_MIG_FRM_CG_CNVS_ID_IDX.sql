@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_cg_cnvs_id_idx ON apex_030200.wwv_mig_frm_cnvs_graphics(canvas_id);

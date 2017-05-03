@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_module_file_id_idx ON apex_030200.wwv_mig_olb_modules(file_id);

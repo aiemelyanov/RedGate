@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_t_canvas_oltid_idx ON apex_030200.wwv_mig_olb_olt_canvas(objectlibrarytab_id);

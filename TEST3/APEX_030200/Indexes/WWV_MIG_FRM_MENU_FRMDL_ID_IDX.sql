@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_menu_frmdl_id_idx ON apex_030200.wwv_mig_frm_fmb_menu(formmodule_id);

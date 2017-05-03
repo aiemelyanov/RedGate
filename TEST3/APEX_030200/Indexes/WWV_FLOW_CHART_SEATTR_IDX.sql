@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_chart_seattr_idx ON apex_030200.wwv_flow_region_chart_ser_attr(region_id,series_id);

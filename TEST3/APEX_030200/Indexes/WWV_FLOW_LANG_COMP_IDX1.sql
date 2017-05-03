@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_lang_comp_idx1 ON apex_030200.wwv_flow_languages(lang_id_upper,"NLS_LANGUAGE","NLS_TERRITORY");

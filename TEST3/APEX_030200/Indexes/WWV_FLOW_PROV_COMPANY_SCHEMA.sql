@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_prov_company_schema ON apex_030200.wwv_flow_provision_company(schema_name);

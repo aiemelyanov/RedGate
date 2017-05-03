@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_passwd_history_fkidx2 ON apex_030200.wwv_flow_password_history(user_id);

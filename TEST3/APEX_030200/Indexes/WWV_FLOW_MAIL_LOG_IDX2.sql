@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_mail_log_idx2 ON apex_030200.wwv_flow_mail_log(last_updated_by);

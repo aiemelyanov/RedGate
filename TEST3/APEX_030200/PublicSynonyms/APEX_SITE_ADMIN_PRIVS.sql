@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_site_admin_privs FOR apex_030200.apex_site_admin_privs;

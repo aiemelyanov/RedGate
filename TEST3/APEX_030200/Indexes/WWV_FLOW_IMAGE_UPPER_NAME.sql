@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_image_upper_name ON apex_030200.wwv_flow_image_repository(upper_image_name);

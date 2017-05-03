@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM htmldb_lang FOR apex_030200.htmldb_lang;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_report_layouts_idx2 ON apex_030200.wwv_flow_report_layouts(flow_id,SUBSTR("REPORT_LAYOUT_NAME",1,500));

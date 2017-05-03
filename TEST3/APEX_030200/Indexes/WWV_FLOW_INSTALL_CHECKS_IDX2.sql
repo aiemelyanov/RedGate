@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_install_checks_idx2 ON apex_030200.wwv_flow_install_checks(security_group_id);

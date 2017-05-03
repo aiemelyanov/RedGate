@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_workspace_files FOR apex_030200.apex_workspace_files;

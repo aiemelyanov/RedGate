@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM htmldb_login FOR apex_030200.htmldb_login;

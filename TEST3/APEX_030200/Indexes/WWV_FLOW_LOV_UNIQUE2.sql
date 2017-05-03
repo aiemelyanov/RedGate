@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_lov_unique2 ON apex_030200.wwv_flow_lists_of_values$(flow_id,security_group_id,lov_name);

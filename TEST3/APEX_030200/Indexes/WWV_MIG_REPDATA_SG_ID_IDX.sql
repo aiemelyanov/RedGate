@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_repdata_sg_id_idx ON apex_030200.wwv_mig_rpt_data(security_group_id);

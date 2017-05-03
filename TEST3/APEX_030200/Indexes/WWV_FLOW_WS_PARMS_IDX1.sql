@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_parms_idx1 ON apex_030200.wwv_flow_ws_parameters(ws_opers_id);

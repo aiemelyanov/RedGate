@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_sc_trans_fk1 ON apex_030200.wwv_flow_sc_trans(security_group_id);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.parent_list_item_id_idx ON apex_030200.wwv_flow_list_items(parent_list_item_id);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_proj_trig_pj_id_idx ON apex_030200.wwv_mig_project_triggers(project_id);

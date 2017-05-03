@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_mpc_mp_idx ON apex_030200.wwv_flow_model_page_cols(model_region_id);

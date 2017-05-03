@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_unique_menu_opt ON apex_030200.wwv_flow_menu_options(menu_id,page_id);

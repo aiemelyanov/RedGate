@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_prov_company_name ON apex_030200.wwv_flow_provision_company(company_name);

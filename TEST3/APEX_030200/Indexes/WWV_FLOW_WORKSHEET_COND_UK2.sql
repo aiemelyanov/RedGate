@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_worksheet_cond_uk2 ON apex_030200.wwv_flow_worksheet_conditions(report_id,SUBSTR("CONDITION_TYPE",1,30),SUBSTR("COLUMN_NAME",1,30),"OPERATOR",SUBSTR("EXPR",1,250),SUBSTR("EXPR2",1,100));

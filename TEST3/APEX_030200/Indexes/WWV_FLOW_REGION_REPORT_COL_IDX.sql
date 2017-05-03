@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_region_report_col_idx ON apex_030200.wwv_flow_region_report_column(region_id);

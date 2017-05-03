@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_collection FOR apex_030200.apex_collection;

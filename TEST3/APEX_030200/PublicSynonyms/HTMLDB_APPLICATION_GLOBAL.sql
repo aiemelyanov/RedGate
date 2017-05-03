@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM htmldb_application_global FOR apex_030200.htmldb_application_global;

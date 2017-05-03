@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_page_sub_idx1 ON apex_030200.wwv_flow_page_submissions(flow_id);

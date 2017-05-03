@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_rpts_idx ON apex_030200.wwv_flow_worksheet_rpts(worksheet_id,is_default);

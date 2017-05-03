@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_dictionary$soundex ON apex_030200.wwv_flow_dictionary$(words_soundex,language);

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_auth_setups_idx1 ON apex_030200.wwv_flow_custom_auth_setups(flow_id);

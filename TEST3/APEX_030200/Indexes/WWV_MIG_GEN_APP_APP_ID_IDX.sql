@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_gen_app_app_id_idx ON apex_030200.wwv_mig_generated_applications(application_id);

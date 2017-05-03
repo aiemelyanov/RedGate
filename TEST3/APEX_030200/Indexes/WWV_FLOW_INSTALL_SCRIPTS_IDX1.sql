@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_install_scripts_idx1 ON apex_030200.wwv_flow_install_scripts(flow_id,"NAME",script_type);

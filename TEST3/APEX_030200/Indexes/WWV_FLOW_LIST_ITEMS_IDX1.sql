@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_list_items_idx1 ON apex_030200.wwv_flow_list_items(security_group_id,flow_id,list_id);

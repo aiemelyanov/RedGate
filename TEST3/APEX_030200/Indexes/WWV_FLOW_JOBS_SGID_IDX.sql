@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_jobs_sgid_idx ON apex_030200.wwv_flow_jobs(security_group_id);

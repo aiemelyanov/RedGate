@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_report_layouts_idx1 ON apex_030200.wwv_flow_report_layouts(flow_id,security_group_id);

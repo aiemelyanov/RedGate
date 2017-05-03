@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_olt_mmi_menuid_idx ON apex_030200.wwv_mig_olb_olt_menu_menuitem(menu_id);

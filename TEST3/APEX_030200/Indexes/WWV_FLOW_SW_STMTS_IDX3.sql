@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_sw_stmts_idx3 ON apex_030200.wwv_flow_sw_stmts(security_group_id,file_id,isrunnable,stmt_id,stmt_number);

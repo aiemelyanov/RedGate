@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_acc_rpt_mdl_idx2 ON apex_030200.wwv_mig_acc_rpts_modules(project_id,dbid,reportid);

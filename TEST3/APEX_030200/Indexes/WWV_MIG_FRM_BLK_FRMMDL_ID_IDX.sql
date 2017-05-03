@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_blk_frmmdl_id_idx ON apex_030200.wwv_mig_frm_blocks(formmodule_id);

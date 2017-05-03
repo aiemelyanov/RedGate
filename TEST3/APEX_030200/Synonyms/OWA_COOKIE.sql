@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.owa_cookie FOR sys.owa_cookie;

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_rs_exp_fk1 ON apex_030200.wwv_flow_rschema_exceptions(schema_id);

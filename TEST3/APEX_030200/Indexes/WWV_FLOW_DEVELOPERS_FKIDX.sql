@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_developers_fkidx ON apex_030200.wwv_flow_developers(security_group_id,userid);

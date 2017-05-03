@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_import_export_fkidx1 ON apex_030200.wwv_flow_import_export(data_id);

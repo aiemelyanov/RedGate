@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_developers_id ON apex_030200.wwv_flow_developers(user_id);

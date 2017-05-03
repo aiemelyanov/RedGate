@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_canvas_sg_id_idx ON apex_030200.wwv_mig_olb_canvas(security_group_id);

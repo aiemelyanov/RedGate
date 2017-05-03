@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_olt_va_oltid_idx ON apex_030200.wwv_mig_olb_olt_visualattrbute(objectlibrarytab_id);

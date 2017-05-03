@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_dictionary FOR apex_030200.apex_dictionary;

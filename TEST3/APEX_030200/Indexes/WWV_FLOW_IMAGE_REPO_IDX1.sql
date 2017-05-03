@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_image_repo_idx1 ON apex_030200.wwv_flow_image_repository(flow_id,image_name,security_group_id);

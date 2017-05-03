@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_menu_opt_idx1 ON apex_030200.wwv_flow_menu_options(flow_id,"ID");

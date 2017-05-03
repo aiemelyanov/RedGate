@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_session_idx2 ON apex_030200.wwv_flow_sessions$(session_id_hashed);

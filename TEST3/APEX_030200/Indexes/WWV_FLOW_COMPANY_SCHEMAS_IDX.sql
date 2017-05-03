@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_company_schemas_idx ON apex_030200.wwv_flow_company_schemas(security_group_id,"SCHEMA");

@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_step_processing_idx2 ON apex_030200.wwv_flow_step_processing(flow_step_id,flow_id,security_group_id,"ID");

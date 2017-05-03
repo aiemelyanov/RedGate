@@ -1,0 +1,21 @@
+CREATE TABLE apex_030200.wwv_flow_page_cache (
+  "ID" NUMBER NOT NULL,
+  flow_id NUMBER,
+  page_id NUMBER NOT NULL,
+  security_group_id NUMBER NOT NULL,
+  language VARCHAR2(255 BYTE),
+  user_name VARCHAR2(255 BYTE),
+  context1 VARCHAR2(255 BYTE),
+  context2 VARCHAR2(4000 BYTE),
+  page_text CLOB,
+  request VARCHAR2(4000 BYTE),
+  chart_region_id NUMBER,
+  region_id NUMBER,
+  updated_on DATE,
+  updated_by VARCHAR2(255 BYTE),
+  cached_on DATE,
+  cached_by VARCHAR2(255 BYTE),
+  valid_util DATE,
+  CONSTRAINT wwv_flow_page_cache_pk PRIMARY KEY ("ID"),
+  CONSTRAINT wwv_flow_page_cache_fk FOREIGN KEY (flow_id) REFERENCES apex_030200.wwv_flows ("ID") ON DELETE CASCADE
+);

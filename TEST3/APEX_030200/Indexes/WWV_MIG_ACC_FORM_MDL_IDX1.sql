@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_acc_form_mdl_idx1 ON apex_030200.wwv_mig_acc_forms_modules(formid);

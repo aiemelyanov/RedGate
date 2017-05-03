@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_pref_user_pref_idx ON apex_030200.wwv_flow_preferences$(user_id,preference_name);

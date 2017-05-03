@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_cg_ct_ts_sg_id_idx ON apex_030200.wwv_mig_olb_cg_ct_textsegment(security_group_id);

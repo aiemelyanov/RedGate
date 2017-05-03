@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_page_cache_idx2 ON apex_030200.wwv_flow_page_cache(region_id,flow_id,page_id);

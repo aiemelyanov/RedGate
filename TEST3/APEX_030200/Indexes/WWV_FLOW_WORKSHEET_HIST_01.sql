@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_worksheet_hist_01 ON apex_030200.wwv_flow_worksheet_history(worksheet_id,row_id);

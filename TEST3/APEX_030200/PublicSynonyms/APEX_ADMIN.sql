@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_admin FOR apex_030200.apex_admin;

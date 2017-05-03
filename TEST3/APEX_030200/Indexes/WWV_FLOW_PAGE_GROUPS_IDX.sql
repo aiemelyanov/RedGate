@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_page_groups_idx ON apex_030200.wwv_flow_page_groups(flow_id);

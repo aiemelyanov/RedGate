@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_step_items_u_name ON apex_030200.wwv_flow_step_items(flow_id,"NAME",security_group_id);

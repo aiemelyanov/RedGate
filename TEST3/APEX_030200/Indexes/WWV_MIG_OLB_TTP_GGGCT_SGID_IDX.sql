@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_ttp_gggct_sgid_idx ON apex_030200.wwv_mig_olb_t_tp_ggg_cpdtxt(security_group_id);

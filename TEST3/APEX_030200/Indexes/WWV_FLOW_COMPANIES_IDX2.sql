@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_companies_idx2 ON apex_030200.wwv_flow_companies(provisioning_company_id,short_name);

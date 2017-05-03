@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_acc_rel_idx3 ON apex_030200.wwv_mig_acc_relations(project_id,dbid);

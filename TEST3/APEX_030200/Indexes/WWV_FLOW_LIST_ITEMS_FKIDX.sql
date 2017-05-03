@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_list_items_fkidx ON apex_030200.wwv_flow_list_items(list_id,flow_id,list_item_display_sequence);

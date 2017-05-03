@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_install_checks_idx1 ON apex_030200.wwv_flow_install_checks(flow_id,"NAME");

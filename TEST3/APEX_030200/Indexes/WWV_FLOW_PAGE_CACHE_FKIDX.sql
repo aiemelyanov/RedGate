@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_page_cache_fkidx ON apex_030200.wwv_flow_page_cache(flow_id);

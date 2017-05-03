@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM htmldb_activity_log FOR apex_030200.htmldb_activity_log;

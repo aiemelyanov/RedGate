@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_cal_fk_idx1 ON apex_030200.wwv_flow_cals(flow_id,security_group_id);

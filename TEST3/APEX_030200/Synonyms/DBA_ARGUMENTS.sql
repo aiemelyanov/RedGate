@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.dba_arguments FOR sys.dba_arguments;

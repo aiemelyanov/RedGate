@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_icon_bar_idx2 ON apex_030200.wwv_flow_icon_bar(flow_id,security_group_id);

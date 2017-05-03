@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_olt_alert_sgid_idx ON apex_030200.wwv_mig_olb_olt_alert(security_group_id);

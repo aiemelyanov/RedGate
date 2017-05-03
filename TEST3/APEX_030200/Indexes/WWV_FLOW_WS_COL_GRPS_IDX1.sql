@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_ws_col_grps_idx1 ON apex_030200.wwv_flow_worksheet_col_groups(flow_id);

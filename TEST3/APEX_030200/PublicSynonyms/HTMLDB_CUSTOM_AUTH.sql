@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM htmldb_custom_auth FOR apex_030200.htmldb_custom_auth;

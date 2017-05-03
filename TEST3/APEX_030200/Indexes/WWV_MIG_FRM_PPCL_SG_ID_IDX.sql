@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_ppcl_sg_id_idx ON apex_030200.wwv_mig_frm_propertyclass(security_group_id);

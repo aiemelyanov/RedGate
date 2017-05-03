@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.utl_url FOR sys.utl_url;

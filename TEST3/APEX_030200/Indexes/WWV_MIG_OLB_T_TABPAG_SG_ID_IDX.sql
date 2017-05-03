@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_olb_t_tabpag_sg_id_idx ON apex_030200.wwv_mig_olb_olt_tabpage(security_group_id);

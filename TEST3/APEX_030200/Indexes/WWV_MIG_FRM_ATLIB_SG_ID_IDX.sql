@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_mig_frm_atlib_sg_id_idx ON apex_030200.wwv_mig_frm_attachedlibrary(security_group_id);

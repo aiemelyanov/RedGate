@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_030200.apex_activity_log FOR apex_030200.wwv_flow_user_activity_log;

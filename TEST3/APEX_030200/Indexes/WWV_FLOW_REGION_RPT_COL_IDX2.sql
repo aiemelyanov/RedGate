@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_region_rpt_col_idx2 ON apex_030200.wwv_flow_region_report_column(security_group_id,flow_id);

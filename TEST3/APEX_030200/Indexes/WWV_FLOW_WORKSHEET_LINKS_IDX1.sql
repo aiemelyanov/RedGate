@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_worksheet_links_idx1 ON apex_030200.wwv_flow_worksheet_links(row_id);

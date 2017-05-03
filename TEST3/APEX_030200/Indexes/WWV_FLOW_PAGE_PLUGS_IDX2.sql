@@ -1,0 +1,1 @@
+CREATE INDEX apex_030200.wwv_flow_page_plugs_idx2 ON apex_030200.wwv_flow_page_plugs(page_id);

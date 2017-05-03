@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX apex_030200.wwv_flow_fnd_user_fkidx ON apex_030200.wwv_flow_fnd_user(security_group_id,user_name);
